@@ -1,5 +1,5 @@
 locations:
 - code_source:
-    module_name: quickstart_etl.definitions
+    module_name: analytics.definitions
   location_name: de_capstone_project
   working_directory: ./src/
